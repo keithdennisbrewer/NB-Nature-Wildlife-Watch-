@@ -1,0 +1,104 @@
+
+name: Refresh Atlantic Nature News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install feed reader
+        run: pip install feedparser
+
+      - name: Collect Atlantic nature news
+        shell: python
+        run: |
+          import feedparser
+          import json
+          import re
+          from datetime import datetime, timezone
+          from pathlib import Path
+          from urllib.parse import quote
+
+          regions = {
+              "New Brunswick": "New Brunswick",
+              "Nova Scotia": "Nova Scotia",
+              "Prince Edward Island": "Prince Edward Island",
+              "Newfoundland and Labrador": "Newfoundland Labrador"
+          }
+
+          topic = (
+              '("wildlife" OR "conservation" OR "biodiversity" '
+              'OR "habitat" OR "wetlands" OR "environmental pollution" '
+              'OR "endangered species" OR "nature")'
+          )
+
+          articles = []
+          seen = set()
+
+          for region, search_region in regions.items():
+              query = f'{topic} "{search_region}"'
+              url = (
+                  "https://news.google.com/rss/search?q="
+                  + quote(query)
+                  + "&hl=en-CA&gl=CA&ceid=CA:en"
+              )
+
+              feed = feedparser.parse(url)
+
+              for entry in feed.entries:
+                  title = entry.get("title", "").strip()
+                  link = entry.get("link", "").strip()
+
+                  if not title or not link or link in seen:
+                      continue
+
+                  seen.add(link)
+
+                  articles.append({
+                      "region": region,
+                      "title": title,
+                      "url": link,
+                      "published": entry.get("published", ""),
+                      "source": entry.get("source", {}).get(
+                          "title", "News source"
+                      )
+                  })
+
+          output = {
+              "updated": datetime.now(timezone.utc).isoformat(),
+              "articles": articles
+          }
+
+          Path("data").mkdir(exist_ok=True)
+          Path("data/atlantic-news.json").write_text(
+              json.dumps(output, indent=2, ensure_ascii=False),
+              encoding="utf-8"
+          )
+
+          print(f"Collected {len(articles)} articles.")
+
+      - name: Save updated news
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/atlantic-news.json
+          git diff --cached --quiet || (
+            git commit -m "Refresh Atlantic nature news" &&
+            git push
+          )
