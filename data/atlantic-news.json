@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:52:06.109524+00:00",
+  "updated": "2026-11-15T12:38:39.036183+00:00",
   "articles": [
     {
       "region": "New Brunswick",
@@ -17,13 +17,6 @@
     },
     {
       "region": "New Brunswick",
-      "title": "Conservationists sidelined in lead-up to New Brunswick strategy for ‘sustainable mining’ - NB Media Co-op",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckdockVfLVhaMUk3c2NpWklJbDZpTV9KbDZUbGtiMTczamZPZzQ0OF9pd2o3THRWa09SQjhlVjRxLW5xY1hnd3hTamhxMjhGOFA0R0lSZzBQVHl1SXFtZGI3M1FYRGJ6dVA4bmZVM3g0RzlGUk43alZZVEw2R1NsU3lvMHpBenhwQS1KbmRkNnVjeHdBdTd6MjRPd2h2ZXNubHlfdnFaY3BINnZxQ0VxaVNIMVJyTmI5U0F2RGd4OA?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "source": "NB Media Co-op"
-    },
-    {
-      "region": "New Brunswick",
       "title": "In New Brunswick, residents battle the government over a planned AI data centre - The Narwhal",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBveWw2Y1ZLV2lSVlBLczBBcGFmNkVFNFAzZk5fekxoYndEMUppMFZzcldJRGdlaHBBSVpkQkxkZDVYLVlVdGZDUFljM1BBcnZkVUJuTldxclZ5Q3I3?oc=5",
       "published": "Thu, 04 Jun 2026 07:00:00 GMT",
@@ -31,9 +24,9 @@
     },
     {
       "region": "New Brunswick",
-      "title": "Not all wetlands are protected equally, but an environmental group hopes to change that - CBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUmlNU3d3b0dRUHVvQ0dFdnhiTDNkSURVLTNVYzhoaklwQlA4UXM2YjFMRlJxRE0tTGhzSm9DRmd5eXVhOFhjZ3M2NGpSdERUY0Vvb3FJUjl4M0ZVRVhHTWFWOUJwMG1TeWpPdWNISVY2ak9pZURLRWNtTXFheGVEVEpYelJPOG5HWHQ5M1JLT1hRT1NMZ0JCYU94Yw?oc=5",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "title": "Repairs to wildlife fencing back on track, province says - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTB1SFo3aDJDYjBtbTBRc3cxTGUtZ0J5MUV6aTJEZmpCNHlHU2tiMnJqYW9kMHdjS3FFZUR1aVRwSGhtbzlTNHQ4UGpwWEkxV25jd3l0YWpVVU9LeTVQLUJmaVdEMUh0RVhMYUo1N2d3RVp3TUUza213d21UWURMTmMtLXdTcHl4TTJR?oc=5",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
       "source": "CBC"
     },
     {
@@ -49,6 +42,13 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14X0d0cVpNYnpzem5ZaFVhaHdpemt0OUtlSFhZQ1Y5VGxmcTVHbTFISFZPWGtMQVN2clU2Qk9DblhicllHamtzZ24xVFNmd1Vlc1NGVTYzWlE5LVh5TVNnMDhLTGQ2THFtekY1bkVETkEzdW5nTEtFOQ?oc=5",
       "published": "Sat, 12 Apr 2025 07:00:00 GMT",
       "source": "ArcGIS StoryMaps"
+    },
+    {
+      "region": "New Brunswick",
+      "title": "Conservationists sidelined in lead-up to New Brunswick strategy for ‘sustainable mining’ - NB Media Co-op",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckdockVfLVhaMUk3c2NpWklJbDZpTV9KbDZUbGtiMTczamZPZzQ0OF9pd2o3THRWa09SQjhlVjRxLW5xY1hnd3hTamhxMjhGOFA0R0lSZzBQVHl1SXFtZGI3M1FYRGJ6dVA4bmZVM3g0RzlGUk43alZZVEw2R1NsU3lvMHpBenhwQS1KbmRkNnVjeHdBdTd6MjRPd2h2ZXNubHlfdnFaY3BINnZxQ0VxaVNIMVJyTmI5U0F2RGd4OA?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "source": "NB Media Co-op"
     },
     {
       "region": "New Brunswick",
@@ -73,13 +73,6 @@
     },
     {
       "region": "New Brunswick",
-      "title": "Protected lands on the chopping block under J.D. Irving's proposed forest swap - CBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1d0cV8zd2VkbzZfXy0tNFhxaFNvdkZ4OUVKQlY1YnFjbjQxNllqb3ZVbXQxaUw2YzBsV0RlLTl6WVpMc2ZWclIwZjFMUTNKeHhCU3NTM3paRDBLSnZQOWg1Z1NCQ2MwcU8wUjRadU9mdlVwR3hjeUpCeEJCNTdLM1lMUEJRU1NsTE9KQzFoVk9EZU9xb3c?oc=5",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "source": "CBC"
-    },
-    {
-      "region": "New Brunswick",
       "title": "Can we afford to continue removing wetlands from New Brunswick? - NB Media Co-op",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDA2Z0syYXE4eDJoLVp6dE9faTBlN2Rnc1ZScC1pUHhDWVpSb3czRE43dWR3QWg5eWRsYWZEak1VVHlISU10WGktSVZRQ2RrTTFvWDBBemZCYmh1ZFNRZmduLTNNV3Awd25icElYVzRNN0ROVWNtdXRNb1A3M3gyWjl5bGxDSF9Sc3RTb1RxSktua2NFVE92V3B5QTVJYVdIemJiMWdiNTFueEFZY2c?oc=5",
       "published": "Thu, 20 Apr 2023 07:00:00 GMT",
@@ -94,6 +87,27 @@
     },
     {
       "region": "New Brunswick",
+      "title": "Not all wetlands are protected equally, but an environmental group hopes to change that - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUmlNU3d3b0dRUHVvQ0dFdnhiTDNkSURVLTNVYzhoaklwQlA4UXM2YjFMRlJxRE0tTGhzSm9DRmd5eXVhOFhjZ3M2NGpSdERUY0Vvb3FJUjl4M0ZVRVhHTWFWOUJwMG1TeWpPdWNISVY2ak9pZURLRWNtTXFheGVEVEpYelJPOG5HWHQ5M1JLT1hRT1NMZ0JCYU94Yw?oc=5",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "source": "CBC"
+    },
+    {
+      "region": "New Brunswick",
+      "title": "Deal speeding up environmental reviews attracts criticism from Mi’kmaq rights and conservation groups [video] - NB Media Co-op",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSE1raUZrN2VwTnotSlJVSG5KMmV0UXZ1bXlmeVd0VGxQSkt5RFp1SVNWdGxRRGV0eWV2Mm4zQWlSdHdvR1JvMUd2LWE3cjV5YlNJTk9udjZtcnNLRUJFZ3NOb01vemllT3BQQWFwWjU0Q2NIdUQ4ZEwxUDBNeE00R0s2dUlObnlRNmNGNWRldDFGR2x6bnpqUWRMLTExS1k2RHRsQmdESENUd3o4Ql82WVA1WTdzazFMZXllbFpIdzdGbld1VkhBMndWYm5nMUpwR2JfX0d2c1Ywdw?oc=5",
+      "published": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "source": "NB Media Co-op"
+    },
+    {
+      "region": "New Brunswick",
+      "title": "Protected lands on the chopping block under J.D. Irving's proposed forest swap - CBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1d0cV8zd2VkbzZfXy0tNFhxaFNvdkZ4OUVKQlY1YnFjbjQxNllqb3ZVbXQxaUw2YzBsV0RlLTl6WVpMc2ZWclIwZjFMUTNKeHhCU3NTM3paRDBLSnZQOWg1Z1NCQ2MwcU8wUjRadU9mdlVwR3hjeUpCeEJCNTdLM1lMUEJRU1NsTE9KQzFoVk9EZU9xb3c?oc=5",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "source": "CBC"
+    },
+    {
+      "region": "New Brunswick",
       "title": "New Brunswick non-profits to see over $2.3M to help conserve St. John River - CBC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWV6WmNOdlVLaHcwaGFjZ1pRQS14d09LMms1ZE1zR2RSd0gxSm5LTjNscG53VHpEc054eGRXZUZ6VjBITDYzLVRIRUZGN0RseWdBYnJmb3RtNXBseDViYjFTQTJ6WHNZSXI4bVNnelpNWHJaTm84N1pnNERBdGhQWHpvbXJSRkdyX2VRWnhLODdKQQ?oc=5",
       "published": "Sat, 28 Feb 2026 08:00:00 GMT",
@@ -101,23 +115,9 @@
     },
     {
       "region": "New Brunswick",
-      "title": "Repairs to wildlife fencing back on track, province says - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTB1SFo3aDJDYjBtbTBRc3cxTGUtZ0J5MUV6aTJEZmpCNHlHU2tiMnJqYW9kMHdjS3FFZUR1aVRwSGhtbzlTNHQ4UGpwWEkxV25jd3l0YWpVVU9LeTVQLUJmaVdEMUh0RVhMYUo1N2d3RVp3TUUza213d21UWURMTmMtLXdTcHl4TTJR?oc=5",
-      "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "source": "CBC"
-    },
-    {
-      "region": "New Brunswick",
       "title": "Natural resources minister says logging already-protected areas off the table - CBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjJfR2ZKd1IzNnZQdGNXcmJYSU9ueW1iQ0EzQ1RqaGdXLWhhOGZvZ1laM2ZsNUhOclpvYVF4MExEbG83cnVjVWR6a1huREticUp5UW9hZTg0T2g1bGVpQkNaT2VEZno2VS1jaC1VZHBHRV9uSzRBd0ZQMU05ak5UUlE5UE0?oc=5",
       "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "source": "CBC"
-    },
-    {
-      "region": "New Brunswick",
-      "title": "Wildlife fencing no guarantee you won't hit moose or deer, drivers discover - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDVlWWE5cDJxMmh0Q1pGcU5ENFUwV3lBVlhBMTdXOVBMMlhVT0wxR2xpZlVVNFpfZktiS0NIaUhfelNGMC0zeFU0MkZuX3BCWnhvR3c0QkNPUEFxNG1yeVNvRE5LRGhBSnRiTDVsRkRlLXhTQnhTWGhQRUlld2QzOVdqb1AxdDhFNVhj?oc=5",
-      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
       "source": "CBC"
     },
     {
@@ -164,6 +164,13 @@
     },
     {
       "region": "New Brunswick",
+      "title": "Nature preserve on family land is a 'dream come true' for French Lake artist - CBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDZIQml2a0FIckZkUjRWaWxDOGJoWjJpemRkb3NrNDNXam0xOXhtdEpIUjM3aHROX1lFS19jcXgtSE5faUdmXzhOSmktUFI2QS1LbzFRajM3d2FOdXlNVlJIbnNpcnlCRTlTaXg1aUxhbnBkRFlWQ3dmcDQ2VXN3V3plakl5NmlseEJtNnE5RFo?oc=5",
+      "published": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "source": "CBC"
+    },
+    {
+      "region": "New Brunswick",
       "title": "Conserving the wetlands of the Wolastoq - Ducks Unlimited Canada",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ySXlnYklPekNqUExlSEFGcGJGNlZzY3Q2TGNMMjRLeUxsenVtRVAzVklCMnZHbjNtSmhXWDNvenpSTTZMa1FsTjUxQ1NzMmRGSG9QVUVPMGJkUjJO?oc=5",
       "published": "Fri, 24 Sep 2021 21:00:41 GMT",
@@ -192,16 +199,16 @@
     },
     {
       "region": "New Brunswick",
-      "title": "Nature Conservancy protects vital salmon habitat with New Brunswick reserve - Global News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeF9Nblp4REE5OUEtbThJWnYzRUY0UDk0cU1pWVpFbHNyZVRHdGtKejM2ZkdSbktIWkk5NVY1Mzg4WGZjTHVEaE1jdW5SZk81Y0o4SGdoU0FtZm5Ed1hFdXY3VkJQLWhpZm1TblgyU2JJR3JZbVMzWmNmOFFELTcyMlFKai1WaHZmWnp1em5CSjBVOWppUEVvbXAxNDNOZmFFWnQ5MVQ5SlVPYjlyU2Njbg?oc=5",
-      "published": "Tue, 28 Jun 2016 07:00:00 GMT",
+      "title": "New Brunswick man to shave his 13-inch beard for Australian wildlife - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1BGdWRMWXlwdHNyVUJHZjF6ajN6T0VpbFFDLUwtUUhRZmJHbVNuQnBfYzhKXzAwMWRrenpPd2RZNHhtaFE5SUFoaGtLTkVreFZfUVIyVmpiVXR4amoyd0VVSVJZdjR0ZGloM2lfZUU0djN2TDlrdVlLSm12UDB6Q0ZFNmE4ZWFvM0lGeUZBcw?oc=5",
+      "published": "Fri, 10 Jan 2020 08:00:00 GMT",
       "source": "Global News"
     },
     {
       "region": "New Brunswick",
-      "title": "New Brunswick man to shave his 13-inch beard for Australian wildlife - Global News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1BGdWRMWXlwdHNyVUJHZjF6ajN6T0VpbFFDLUwtUUhRZmJHbVNuQnBfYzhKXzAwMWRrenpPd2RZNHhtaFE5SUFoaGtLTkVreFZfUVIyVmpiVXR4amoyd0VVSVJZdjR0ZGloM2lfZUU0djN2TDlrdVlLSm12UDB6Q0ZFNmE4ZWFvM0lGeUZBcw?oc=5",
-      "published": "Fri, 10 Jan 2020 08:00:00 GMT",
+      "title": "Nature Conservancy protects vital salmon habitat with New Brunswick reserve - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeF9Nblp4REE5OUEtbThJWnYzRUY0UDk0cU1pWVpFbHNyZVRHdGtKejM2ZkdSbktIWkk5NVY1Mzg4WGZjTHVEaE1jdW5SZk81Y0o4SGdoU0FtZm5Ed1hFdXY3VkJQLWhpZm1TblgyU2JJR3JZbVMzWmNmOFFELTcyMlFKai1WaHZmWnp1em5CSjBVOWppUEVvbXAxNDNOZmFFWnQ5MVQ5SlVPYjlyU2Njbg?oc=5",
+      "published": "Tue, 28 Jun 2016 07:00:00 GMT",
       "source": "Global News"
     },
     {
@@ -251,13 +258,6 @@
       "title": "New Brunswick’s Musquash Estuary nature reserve grows bigger - Global News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGJwZDIyN013RHhyeGFPcXdBNjRHQk5ZbVltZUhIZ1U0RmRETnFMM00wMHVtYTJBMGF1a0h4dHhQRTA3eVZYb3lMd0tfNWtrdmdpdkxIWklzVXlYYTROQ1VJeUk2OHNFbVhyNXc4bTFRUjJlMHFVdzJ1S2wtcmdEb2FyN2VIV3MySXJNOWs5cW9KbjVTbF8zN3pJYw?oc=5",
       "published": "Thu, 29 Jun 2017 07:00:00 GMT",
-      "source": "Global News"
-    },
-    {
-      "region": "New Brunswick",
-      "title": "Wildlife officers warn of polar bear on Newfoundland’s Northern Peninsula - New Brunswick - Global News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pMklZTGRSYnVwRUZsbG1PTFo2TkN0X1VJRnEwNWt3RTZvUWdlcWxYTnlRRDRGOC1waFVxMkRSNDBRZnlhbWFVTGNJeU4wc3dOQzZpa1JhUmRDV2JVUFdwdGl5RE1EWkdOQVA0RVlMV2ZwR25XSGM5Yg?oc=5",
-      "published": "Wed, 12 Jun 2019 07:00:00 GMT",
       "source": "Global News"
     },
     {
@@ -332,17 +332,17 @@
     },
     {
       "region": "Nova Scotia",
-      "title": "Nova Scotia Nature Trust launches In Our Nature campaign - Global News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0JWR0VQZTBPN1BPUUdUZXlXVS1WQkFvMWtNTnZfTXhUemNqNVlqLUhDdFpoV3FJU0hpeUtSdWtDNXJBZHg5cTRUSVBYWERrQTN1ZzdQLUNhUExCZ0RIaDFWdDY2MTRlaE9Ba3RUd0FybS1XVUliVEZueVJ2VVBITGZ4dVNxNEV2aTV5TWN5Szh1c1lWdzBRRQ?oc=5",
-      "published": "Tue, 17 Jun 2025 07:00:00 GMT",
-      "source": "Global News"
-    },
-    {
-      "region": "Nova Scotia",
       "title": "Fighting for endangered species in Nova Scotia - Ecojustice",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnZHNwN0VYREhkTWZUczBENVlYcEtTZ3dTdGtCUENmNDdORzBGaFVsaGprb2dzLW9LcTRtcWRMN0twY0tidzFzc2duRXVJRUN3eS1sVkhLSkJxaENGaWlSVy1rdkNIaFdrbzZLbG9oRkt2RllvUUp2Q3ZEVlRTUjQ?oc=5",
       "published": "Wed, 22 Feb 2023 03:03:24 GMT",
       "source": "Ecojustice"
+    },
+    {
+      "region": "Nova Scotia",
+      "title": "Nova Scotia conservation group announces its largest purchase of coastal land - Global News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0p4MU1mdDgwU2g4aEZ4RXZQOGd0bWJTUUIxeWMzdFlkUEFSYWJBNzlwRVdQbTJYUk8xRFlSWGUxcThrRldsOVJVVk1wcTVmdVM0UmgwMDJMa0VuRUpNR2Q2RjVoQmR6UFllVnZhSm9mVGJKUjMyaWtHQ2JJbC1qTG5FRXBMbXhlei1uTVp1Y0FXTU1v?oc=5",
+      "published": "Tue, 03 Sep 2024 07:00:00 GMT",
+      "source": "Global News"
     },
     {
       "region": "Nova Scotia",
@@ -423,24 +423,10 @@
     },
     {
       "region": "Nova Scotia",
-      "title": "Nova Scotia conservation group announces its largest purchase of coastal land - Global News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0p4MU1mdDgwU2g4aEZ4RXZQOGd0bWJTUUIxeWMzdFlkUEFSYWJBNzlwRVdQbTJYUk8xRFlSWGUxcThrRldsOVJVVk1wcTVmdVM0UmgwMDJMa0VuRUpNR2Q2RjVoQmR6UFllVnZhSm9mVGJKUjMyaWtHQ2JJbC1qTG5FRXBMbXhlei1uTVp1Y0FXTU1v?oc=5",
-      "published": "Tue, 03 Sep 2024 07:00:00 GMT",
-      "source": "Global News"
-    },
-    {
-      "region": "Nova Scotia",
       "title": "NS Fails Legal Duty to Protect Endangered Species - Ecojustice",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlBTN0ZIekNGblU0UHhmdjIyN2hTTUxIVHNfUThqWTVxc2x1eUFzWkc1WEVLVVEySVR6ZHk1aHgySktrYVJsb0RxREVudU4wci1EQks0VzgyaFpKQklPcUp5QnBfVXl3MktHR3hqNkIxNXYtTmxkUy1wZ0RYQjA5anRadnJrSjJjNHJXaFNnRkw?oc=5",
       "published": "Fri, 29 May 2020 07:00:00 GMT",
       "source": "Ecojustice"
-    },
-    {
-      "region": "Nova Scotia",
-      "title": "Sanctuaries and Wildlife Management Areas - Government of Nova Scotia",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ic0l2SEFkaU1yYjFPVnoweFo0VFJoM2ZKMXBEMFpDQUQtOHFyVC1KRGpORnljWTg3cGVuZTNqQjN4eC0teWF2SlpjV1gtQW9HR1JyY3pmV1BzYUJrczBmLXFwZ3JmYTF5?oc=5",
-      "published": "Sat, 02 Nov 2013 15:14:37 GMT",
-      "source": "Government of Nova Scotia"
     },
     {
       "region": "Nova Scotia",
@@ -451,10 +437,10 @@
     },
     {
       "region": "Nova Scotia",
-      "title": "Report says Nova Scotia not doing enough to protect biodiversity - CBC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFVmQy03TEJoOGRLTUVZN0p3aDduNGlxalhiWDFCQ1ZEb05MOEtHWlBoMTV6bTFrNHNkR1BxY1J0OW9XOV9HT3czT1RaTFRzdmpJU3Rub2tTY0NiQ1NXVmQxaGJBSnRPZW9wU3BfOFNMOE1fWlUyRWFJTmE3dkxUc1hzRk5MVkFrajdrVEljVHY3aFlKejRmSmVfbFY0VXU0eW9sd2tfRFJ6My1VTmJ3?oc=5",
-      "published": "Mon, 06 May 2019 07:00:00 GMT",
-      "source": "CBC"
+      "title": "Sanctuaries and Wildlife Management Areas - Government of Nova Scotia",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ic0l2SEFkaU1yYjFPVnoweFo0VFJoM2ZKMXBEMFpDQUQtOHFyVC1KRGpORnljWTg3cGVuZTNqQjN4eC0teWF2SlpjV1gtQW9HR1JyY3pmV1BzYUJrczBmLXFwZ3JmYTF5?oc=5",
+      "published": "Sat, 02 Nov 2013 15:14:37 GMT",
+      "source": "Government of Nova Scotia"
     },
     {
       "region": "Nova Scotia",
@@ -462,6 +448,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VY1BTVU1OTDVYRDlJQzVsQ3RERTYyNHJQYjR0dzNldUt5WGE1V0Z0TTBVY1M1R3hSZGlCUGFxbGhzYXplVW5jSXJUOHVkRWZMSjhhZkF4V3JQY1VGYmtXeHYyeU5jNHdzNnBYVmdXcTB5X05O?oc=5",
       "published": "Sun, 20 Mar 2022 22:08:20 GMT",
       "source": "Ducks Unlimited Canada"
+    },
+    {
+      "region": "Nova Scotia",
+      "title": "Report says Nova Scotia not doing enough to protect biodiversity - CBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFVmQy03TEJoOGRLTUVZN0p3aDduNGlxalhiWDFCQ1ZEb05MOEtHWlBoMTV6bTFrNHNkR1BxY1J0OW9XOV9HT3czT1RaTFRzdmpJU3Rub2tTY0NiQ1NXVmQxaGJBSnRPZW9wU3BfOFNMOE1fWlUyRWFJTmE3dkxUc1hzRk5MVkFrajdrVEljVHY3aFlKejRmSmVfbFY0VXU0eW9sd2tfRFJ6My1VTmJ3?oc=5",
+      "published": "Mon, 06 May 2019 07:00:00 GMT",
+      "source": "CBC"
     },
     {
       "region": "Nova Scotia",
@@ -476,6 +469,13 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazNHb0JjMk9maEFfcUpoeHpXT0lfQ3ptbG1vWFQ0ZTFEZ0NFOVJ1VmZSUzVzYjhBVE5SRWxnUXZrdUpLdmk2NlRqMWhVSVBHYmZHVG9iSzZac0hnUXdfNGxwcDlKdlhlMG1sLWxDSmVJQ1lfbHE4U1lFYmh5aVBrNWlmQ0s?oc=5",
       "published": "Tue, 14 Aug 2018 07:00:00 GMT",
       "source": "Government of Nova Scotia"
+    },
+    {
+      "region": "Nova Scotia",
+      "title": "Nova Scotia still failing to protect species at risk after 4 years, AG finds - CBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnI1MWZ2bWVBRXFaXzlZMXRCc0pjUlBGZGVwVTlBN1N6S2Vubm4wNHJuTFYyU01WSC1yV0pmTi1vUGcwTXRzaW1VcVJxWVBQYkdmOVdWYmM4dmRJQXhuRnR2WEVxLXl0MzNKVkJhcWJ6SUdIUzRJSHYtcTdMLXVuX045Y0tmNjhlT2JtOXpyREl4LVdsVV85YWFXbEsxYUQtUG54eTY3a0FkcXZOUm5V?oc=5",
+      "published": "Thu, 08 Jul 2021 07:00:00 GMT",
+      "source": "CBC"
     },
     {
       "region": "Nova Scotia",
@@ -507,13 +507,6 @@
     },
     {
       "region": "Nova Scotia",
-      "title": "Old Growth - Government of Nova Scotia",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMHlYSXdnbFR5bGNTcVh2NXVSdmZTZTNRdG1FUnN5cEt0Sno4U0VSRjNkdUVzSjlWc09Vd3o2Ykh0T0R2OWQ5dFc5UXE2aS1yWkFwZkh3TmZ3UDJvUWx2Z1YzQjNGWWNJeU5iaDRONDA5OGJfbnR5RQ?oc=5",
-      "published": "Mon, 20 Mar 2017 17:23:32 GMT",
-      "source": "Government of Nova Scotia"
-    },
-    {
-      "region": "Nova Scotia",
       "title": "Wilsons Lake coastline, plants now protected by Nova Scotia Nature Trust - CBC",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzdxTjh5eUc4REtVSVplQmZPSm54WGJraTkzNHFXYmgxU2c3NkFKNnBrYmpEcXR1SEJtTkJGNExENjdkR0o3aEpJLUpzaHRubVMxanpRRHBtYlZ1MlhOTlBTQm1OTnk2anlHanZaT0h1YmZENWhBX1VCbnlnc1I3UmQ4bjBEdG83bURqSTNCYV9ubGo0dWN3ZEg2MmFVa3ktYzZtemtzR2lkbVlhNHFJNlpnb3A3SHlrMkszREZSVDBDUQ?oc=5",
       "published": "Fri, 14 Aug 2015 07:00:00 GMT",
@@ -521,24 +514,17 @@
     },
     {
       "region": "Nova Scotia",
+      "title": "Old Growth - Government of Nova Scotia",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMHlYSXdnbFR5bGNTcVh2NXVSdmZTZTNRdG1FUnN5cEt0Sno4U0VSRjNkdUVzSjlWc09Vd3o2Ykh0T0R2OWQ5dFc5UXE2aS1yWkFwZkh3TmZ3UDJvUWx2Z1YzQjNGWWNJeU5iaDRONDA5OGJfbnR5RQ?oc=5",
+      "published": "Mon, 20 Mar 2017 17:23:32 GMT",
+      "source": "Government of Nova Scotia"
+    },
+    {
+      "region": "Nova Scotia",
       "title": "South Panuke Wilderness Area - Government of Nova Scotia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yYU1hTXpHZkRlLXRJYVMxd2YycmpaeDZ4bVU5dDM2akNFU0l4QWhJWTNzaktoQ0ZPaHZMUE5CM0M1NVZidEVmcEJQVlZxZlZpaHQtYTBIbWczdlBjTlFlN3ppWWtENHNxemRn?oc=5",
       "published": "Sun, 28 Feb 2016 06:01:52 GMT",
       "source": "Government of Nova Scotia"
-    },
-    {
-      "region": "Nova Scotia",
-      "title": "Dunraven Bog - Government of Nova Scotia",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sMm5rT0N4d0JnUl9VT3Nrd3ZJekxtVlNZdW9fWHV1dE4xS1lPWXdSMXdyaWNWVVFjRkJuclAtSTYwNXVhZms2aWl2NTRiLW52aXpMWUpONUx4TGEyOGEzR1prY0VGcmQ3MXRV?oc=5",
-      "published": "Fri, 02 Dec 2016 00:08:06 GMT",
-      "source": "Government of Nova Scotia"
-    },
-    {
-      "region": "Nova Scotia",
-      "title": "Nova Scotia Nature Trust aims to protect Rogues Roost - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHBwNmdwS2dKOHQ5ZkdnbklIWW50X0RpdC1pUkpBMG1YSWZnMXcwRGNubTVuVmt5M2hobTJjWGpucm9YaTdjTU5VMk1BWmtDXzFGNUpHZ21JOHV3UFVzQTEzSmN1ZHE4ZjI0QUs2TGFKUTV2S1RGMlpiWnJIYVk2WGVDNXFscDNWdXVNU3NyaURPRGxJbXoyTDZtR190aWpTLUJidkZEZXRkQQ?oc=5",
-      "published": "Mon, 08 Jun 2015 07:00:00 GMT",
-      "source": "CBC"
     },
     {
       "region": "Nova Scotia",
@@ -552,6 +538,13 @@
       "title": "Catalone Lake islands are for the birds, unless someone claims them - CBC",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWJDODFkbXlmdVE5VGUyRHNXa0hSck1ZZm9qaFIybVg0dzZNZURubVlzaHJaa3QxdjluM0JXOHNleFdjRm9WUUpjNXJRNWZqaFU1X1pEUG9ubUg2NHNMZHpMdmUxR1lELU9WcjB6d2hLZWhjTWRqRl93a3h1SjFNMXBobFg5S3BUNHJhX3QxUzhBakJDUFpBZnBfZFM1V2N4YWFBd0VucHdpdU5PTlQyWUo3cEh6emVjNFhOdmRR?oc=5",
       "published": "Thu, 09 Apr 2015 07:00:00 GMT",
+      "source": "CBC"
+    },
+    {
+      "region": "Nova Scotia",
+      "title": "Nova Scotia Nature Trust aims to protect Rogues Roost - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHBwNmdwS2dKOHQ5ZkdnbklIWW50X0RpdC1pUkpBMG1YSWZnMXcwRGNubTVuVmt5M2hobTJjWGpucm9YaTdjTU5VMk1BWmtDXzFGNUpHZ21JOHV3UFVzQTEzSmN1ZHE4ZjI0QUs2TGFKUTV2S1RGMlpiWnJIYVk2WGVDNXFscDNWdXVNU3NyaURPRGxJbXoyTDZtR190aWpTLUJidkZEZXRkQQ?oc=5",
+      "published": "Mon, 08 Jun 2015 07:00:00 GMT",
       "source": "CBC"
     },
     {
@@ -602,13 +595,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0hLT1c2dUVqbE9pRUt4Zm9WMC00WHMyTkFNX0dYbW4xcS16ajhrRFVPcEpjM2gyTlpTSjZKTGNRUmVQX0dmWEg0YU1ZUmdGN09aRGN6dWJGSmZoVzVfbV93THgxQjJqcnhyZXVXeE9hZzljLXRZRWR1eklfYWJ6U2dxRDZXQ1QzUDA2b0ZaUDIyWngxMzIzakxpM1NMaVFVQ2tVbU9MVk8zdw?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
       "source": "Government of Prince Edward Island"
-    },
-    {
-      "region": "Prince Edward Island",
-      "title": "The importance of wetlands in Prince Edward Island - Prince Albert Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BZVV0ZTdsU0xpZ2wyNno2bXVtZUtPbXRCWUJtTndWWnUwRmdCSU44bnJDdFZadWkzX29HLXZhUEtwSzFhZkNoel9GbUtmOHlrQTcwMXZXTGlrNm1EdXg3MkFsYnFVZjYzbEN6aFFtREhqbmVOU3FvSi1EVkNWbEk?oc=5",
-      "published": "Tue, 24 Dec 2024 08:00:00 GMT",
-      "source": "Prince Albert Daily Herald"
     },
     {
       "region": "Prince Edward Island",
@@ -703,6 +689,13 @@
     },
     {
       "region": "Prince Edward Island",
+      "title": "Fish and Mammals - Parks Canada",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkp5LW9GOWVNaFVuY0FBUko0SHJpUnA1czc1a1BRc0dZWTFEd3FPWjhvRnlNc3VRaTN6NjRUUXhDVVlwbW5EMFY4WUdwaDRQNmgwVmlFT2Fncm1tU194Q0t2VTlKcjRnNkZGSXpuWU9idjFrekpZc1RIZko1LTBvSUptYXY3TFNTQ1RvNzlmMVVTelNobkxWcHJYa2FGWlVvaTBBbU1KcnZxdw?oc=5",
+      "published": "Tue, 07 May 2024 07:00:00 GMT",
+      "source": "Parks Canada"
+    },
+    {
+      "region": "Prince Edward Island",
       "title": "Plants - Parks Canada",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNmpwSHoxWlM0M1BKTTRwUHRncjdVbWQzbnhENzh3SzFTSGRhR0xFWkNER19iamY5emcyNkV4dUhCOFMzcmpucExMWjdsTXkyX2ZtX0tXNURINjJpZkg2WEQ4bHotbkRaUXFWaEhGeHVUdkk3QmFZa3lFX2RDWDhWa1Fwc1RIZnVHUUpVUF9yR3JyWF9BT0dNa19rb3piYVYwNTdFa1VLS0lVbTZDQkNF?oc=5",
       "published": "Tue, 07 May 2024 07:00:00 GMT",
@@ -745,17 +738,17 @@
     },
     {
       "region": "Prince Edward Island",
-      "title": "Section of rare forested land donated to Prince Edward Island nature reserve - Global News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3dIOWVhY21nVU5qWlcwbE93bkxncFBlYzRfdXBqRVZwdExncEl5ZEl2VXJUNmVfS20zZjhReFppZHN2LVNISVJVMDZIUjZIY0h3WUJWSUxCZUpCc3AzMnFqSG1sQ0NaNnBDYWRoa1BHSkpiUzUwLXhXSThMem9pTkwtT2NadVVZQS14S2V3aGNwMDItTlZKS05pRU9fbVZhSHYxeTlpc3E3dDNvY1BBTjFR?oc=5",
-      "published": "Wed, 26 Aug 2020 07:00:00 GMT",
-      "source": "Global News"
-    },
-    {
-      "region": "Prince Edward Island",
       "title": "Winter visitation - Parks Canada",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nWWlCVlVxQUNYM1RjM05mQmgxVlVQOWlFWEc0QWdHdEhhYWpMWE9Vb2VzaW9jZzEwQlo4V2Mwc1JaV094ZWJyaUNESzNiRFBYdHJ3cmJCVjNEYmo4Tl90Uld4XzRER2VLUnRJ?oc=5",
       "published": "Tue, 10 Dec 2024 08:00:00 GMT",
       "source": "Parks Canada"
+    },
+    {
+      "region": "Prince Edward Island",
+      "title": "Section of rare forested land donated to Prince Edward Island nature reserve - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3dIOWVhY21nVU5qWlcwbE93bkxncFBlYzRfdXBqRVZwdExncEl5ZEl2VXJUNmVfS20zZjhReFppZHN2LVNISVJVMDZIUjZIY0h3WUJWSUxCZUpCc3AzMnFqSG1sQ0NaNnBDYWRoa1BHSkpiUzUwLXhXSThMem9pTkwtT2NadVVZQS14S2V3aGNwMDItTlZKS05pRU9fbVZhSHYxeTlpc3E3dDNvY1BBTjFR?oc=5",
+      "published": "Wed, 26 Aug 2020 07:00:00 GMT",
+      "source": "Global News"
     },
     {
       "region": "Prince Edward Island",
@@ -829,13 +822,6 @@
     },
     {
       "region": "Newfoundland and Labrador",
-      "title": "Tallulah's tale: Salmonier Nature Park otter faces uncertain future after attack, escape from 'Alcatraz' - CBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDU5TlE2aHQtdnMyQ2dCNGhTcGZEbHRwRV91bHRiUVM0bnEyN2VNRDIyTXgzdXktUVVrV3lGcWRlVmhCa0ROcmJPNDhmRkFNRWxVdXN2R2RxVjlHQ003bWRmSUxOaUZoczc3VHVvTFAxbTR6a3RKMWwybGxVU09ab1NuTXpGR1RfZlY4RWNSYw?oc=5",
-      "published": "Sun, 01 Nov 2026 07:00:00 GMT",
-      "source": "CBC"
-    },
-    {
-      "region": "Newfoundland and Labrador",
       "title": "N.L. government axed possible conservation area to protect local industry, minister says - CBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1LS2xac3ptQnBWSHFPWHhjd20xWXNoVG02UzhqeUFvbGZtWk1hYTlmejNmNy1YdmNxdC1SemFNaE5NeFo1N3cyODNNZkd1UGktZkFHblNtSFVBYzFRb2lGd0NzcGNJaW02RzZfZ2VMMnl0RFhRbWdfc1Y0RG90VmRHWmJoSUk?oc=5",
       "published": "Wed, 04 Feb 2026 08:00:00 GMT",
@@ -885,16 +871,16 @@
     },
     {
       "region": "Newfoundland and Labrador",
-      "title": "Newfoundland oil spill a major concern for wildlife, says seabird biologist - CBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHVCRUJPQ1J5d2FmQWF5ajBrTXBpcHRDX1JhZ1hMV1VMUml3aks4Z29pWDN1Yzh6Y29kNjRFX2VHN3N1UDdPRjJRSXJoOF9YSlczblV4NUpmVkJmSlFuSmpzcFdoT18teDRHMG1WZzJYWlRjc2k4VWxHOVdQSU9QVllMOWtnU3YyV2p6MWxsUzB0SWc4WFhrTA?oc=5",
-      "published": "Tue, 15 Feb 2022 08:00:00 GMT",
+      "title": "Environmental group releases protection plan for Newfoundland, 25 years in the making - CBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGE3bXRZMm9zbmlfY3JRdmVDQVF5T2wwMUlRUk5NMkJESjZ6WkhaUnhSelJkdllpSVNsOHNMY2wxTV8xU0x5R0JnWVVjVVZaUEZUVGx3aTU2UWxWbWc4TG9KU0tfSHlqa3ZSNjNMNE5KeEVZcVlDQWhXMTY0eTg2cDhGVTJXNV9yM21EUm9KMTVYV3dHS2lvZlBFTEp4TTVSRk1zQg?oc=5",
+      "published": "Wed, 03 Jun 2020 07:00:00 GMT",
       "source": "CBC"
     },
     {
       "region": "Newfoundland and Labrador",
-      "title": "Environmental group releases protection plan for Newfoundland, 25 years in the making - CBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGE3bXRZMm9zbmlfY3JRdmVDQVF5T2wwMUlRUk5NMkJESjZ6WkhaUnhSelJkdllpSVNsOHNMY2wxTV8xU0x5R0JnWVVjVVZaUEZUVGx3aTU2UWxWbWc4TG9KU0tfSHlqa3ZSNjNMNE5KeEVZcVlDQWhXMTY0eTg2cDhGVTJXNV9yM21EUm9KMTVYV3dHS2lvZlBFTEp4TTVSRk1zQg?oc=5",
-      "published": "Wed, 03 Jun 2020 07:00:00 GMT",
+      "title": "Newfoundland oil spill a major concern for wildlife, says seabird biologist - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHVCRUJPQ1J5d2FmQWF5ajBrTXBpcHRDX1JhZ1hMV1VMUml3aks4Z29pWDN1Yzh6Y29kNjRFX2VHN3N1UDdPRjJRSXJoOF9YSlczblV4NUpmVkJmSlFuSmpzcFdoT18teDRHMG1WZzJYWlRjc2k4VWxHOVdQSU9QVllMOWtnU3YyV2p6MWxsUzB0SWc4WFhrTA?oc=5",
+      "published": "Tue, 15 Feb 2022 08:00:00 GMT",
       "source": "CBC"
     },
     {
@@ -990,13 +976,6 @@
     },
     {
       "region": "Newfoundland and Labrador",
-      "title": "Illegal hunt of caribou being investigated, but stronger protections needed, says association - CBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1FQSkozSWR4ZWt1c0tSbmpqZ0hZclhlRzVHV056Wmk1VlJFLVE1Y25QNnRwV3kzS0ZZRDZDUUdrNHVRZlU4YzIzYmNDWWl5UHhyWFBDZlRQZjRyRi1HMEVHQ1AyQjJJZmdaazZ1WHQ5UjBtLWZwa3JzRVF3UFZYaG1oUlpKTnpmeDJhSTFLdlV4QjlNMm9B?oc=5",
-      "published": "Tue, 09 Mar 2021 08:00:00 GMT",
-      "source": "CBC"
-    },
-    {
-      "region": "Newfoundland and Labrador",
       "title": "Sidearm removals dangerous, NAPE warns - CBC",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXJXamphU0JnaGRvb2M5SE9Nc2xhd2R0eFJmY3E4V2RMRGZLeHVwQWVibnFydUU5RWNDQmVFa21GZldNdWh0OWJRNzMyeXVYWExabHJqQkE0QzFmNUY5MkZLaTlRZklDbjAzeVBDUWdUY2ZfVzJCdGZ5cnI4c0ljLVc0LVNLaUFXYlZlM2ZzYm9PWmkxR2pkbUN0TWxuYXoyTEE?oc=5",
       "published": "Wed, 27 Apr 2011 07:00:00 GMT",
@@ -1014,6 +993,13 @@
       "title": "Nature Conservancy of Canada protects 606 acres on Crabbes River - CBC",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcE8yUG5MWVBEQk84Qk42WDhONlFYZzZwQnp6Y1U0dDNZTlhXSVpqM2hlOTNoLXFwazlqWHZKSWJvNXM3eTE2T2FnU0doZUtFYXhWai1MR1pESDVvZlkyMWxlZDJSWlVfY2hNSU5xM01ueDh0MHBvLW5SZTZDWmRpQ3Y2S0lERkg5Z2tiTjh6bDJRVjBQRGJBWFhTVFU2RnRJenZmMWRyNkV6MGIxdHdfN2d2Qlhja05YSk03dFk0Qk1fT05rLXc?oc=5",
       "published": "Sat, 15 Nov 2014 08:00:00 GMT",
+      "source": "CBC"
+    },
+    {
+      "region": "Newfoundland and Labrador",
+      "title": "Illegal hunt of caribou being investigated, but stronger protections needed, says association - CBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1FQSkozSWR4ZWt1c0tSbmpqZ0hZclhlRzVHV056Wmk1VlJFLVE1Y25QNnRwV3kzS0ZZRDZDUUdrNHVRZlU4YzIzYmNDWWl5UHhyWFBDZlRQZjRyRi1HMEVHQ1AyQjJJZmdaazZ1WHQ5UjBtLWZwa3JzRVF3UFZYaG1oUlpKTnpmeDJhSTFLdlV4QjlNMm9B?oc=5",
+      "published": "Tue, 09 Mar 2021 08:00:00 GMT",
       "source": "CBC"
     },
     {
